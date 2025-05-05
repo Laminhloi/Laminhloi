@@ -1,10 +1,10 @@
 {
     "minhloiiukimhien": {
-        "ip": "5.104.84.134",
+        "allowed_ip": "5.104.84.134",
         "expires_at": "2190-11-11"
     },
     "keyfree": {
-        "ip": "5.104.84.134",
+        "allowed_ip": "5.104.84.134",
         "expires_at": "2025-06-22"
     }
 }
